@@ -8,7 +8,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurustuner&layout=compact)](https://github.com/anuraghazra/github-readme stats,&bg_color=DEG,COLOR8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurustuner&layout=compact)](https://github.com/anuraghazra/github-readme stats)
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
