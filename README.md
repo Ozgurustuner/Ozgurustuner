@@ -1,10 +1,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&hide=contribs,prs)
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&hide=contribs,prs&bg_color=DEG,COLOR8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&show_icons=true&bg_color=DEG,COLOR4)
 
 
 
