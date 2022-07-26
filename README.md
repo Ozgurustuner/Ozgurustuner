@@ -1,11 +1,14 @@
-### Hi there 👋
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&hide=contribs,prs)
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&show_icons=true)
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameOzgurustuner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgurustuner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
