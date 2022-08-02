@@ -1,5 +1,19 @@
+### Hi there. I'm Özgür 👋
+
+- :zap: I love math, programming, Gis, Data science
+- 🌱 I'm learning new things every day.
 
 
+
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-%C3%BCst%C3%BCner-b6a41b235/)
+  
+
+
+
+
+
+[![Ozgur's github stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgurustuner&hide=contribs,prs)
 
