@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 <p><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ozgurustuner)
 
 
 
