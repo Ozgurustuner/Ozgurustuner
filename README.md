@@ -1,6 +1,6 @@
 ### Hi there. I'm Özgür 👋
 
-- :zap: I love  programming,Gis Developer, Gis, Data science
+- :zap: I love  programming, Gis, Data science
 - 🌱 I'm learning new things every day.
 
 
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ozgurustuner)
 
+![giphy](https://user-images.githubusercontent.com/104892976/184847708-5b4241e7-a619-4cfd-a0b3-329b5d8f3567.gif)
 
 
 
