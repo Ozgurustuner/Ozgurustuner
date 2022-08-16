@@ -1,6 +1,6 @@
 ### Hi there. I'm Özgür 👋
 
-- :zap: I love  programming, Gis, Data science
+- :zap: I love  programming,Gis Developer, Gis, Data science
 - 🌱 I'm learning new things every day.
 
 
