@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ozgurustuner)
 
-![giphy](https://user-images.githubusercontent.com/104892976/184847708-5b4241e7-a619-4cfd-a0b3-329b5d8f3567.gif) /![tumblr_nrfzi2EpCU1ruw1vso1_500](https://user-images.githubusercontent.com/104892976/186255148-a2ea4863-31ff-4c6a-b901-3bc2d570a9bc.gif)
+![giphy](https://user-images.githubusercontent.com/104892976/184847708-5b4241e7-a619-4cfd-a0b3-329b5d8f3567.gif) ![tumblr_nrfzi2EpCU1ruw1vso1_500](https://user-images.githubusercontent.com/104892976/186255148-a2ea4863-31ff-4c6a-b901-3bc2d570a9bc.gif)
 
 
 
