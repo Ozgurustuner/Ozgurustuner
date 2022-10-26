@@ -1,4 +1,4 @@
-### Hi there. I'm Özgür 👋
+### Hi there. I'm Özgür 👋..
 
 - :zap: I love  programming, Gis, Mapping, Data science
 - 🌱 I'm learning new things every day.
