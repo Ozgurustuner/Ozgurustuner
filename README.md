@@ -1,4 +1,4 @@
-### Hi there. I'm Özgür 👋.
+### Hi there. I'm Özgür 👋
 
 - :zap: I love  programming 
 - I am interested in GIS, Mapping, Data science, Cyber Security
