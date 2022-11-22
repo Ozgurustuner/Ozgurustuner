@@ -8,6 +8,7 @@
 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-%C3%BCst%C3%BCner-b6a41b235/)
+  - :office: [Medium](https://https://medium.com/@Ozgurustuner/)
   
 
 
