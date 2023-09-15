@@ -1,7 +1,7 @@
 ### Hi there. I'm Özgür 👋
 
 
-- I am interested in GIS, Mapping, Data science, Cyber Security
+- I am interested in  Mapping, Data science, Cyber Security
 - 🌱 I'm learning new things every day.
 
 
