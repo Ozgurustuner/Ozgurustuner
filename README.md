@@ -2,7 +2,7 @@
 
 
 - I am interested in  Mapping, Data science, Cyber Security
-- 🌱 I'm learning new things every day.
+- 🌱 I'm learning new things every day...
 
 
 
